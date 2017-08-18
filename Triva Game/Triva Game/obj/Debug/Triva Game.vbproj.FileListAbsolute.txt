@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\obj\Debug\Triva Game.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\obj\Debug\Triva_Game.Form1.resources
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\obj\Debug\Triva_Game.Resources.resources
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\obj\Debug\Triva Game.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\bin\Debug\Triva Game.exe.config
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\bin\Debug\Triva Game.exe
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\bin\Debug\Triva Game.pdb
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\bin\Debug\Triva Game.xml
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\obj\Debug\Triva Game.exe
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\obj\Debug\Triva Game.xml
+C:\Users\CCLC\Documents\Rebeca\Triva Game\Triva Game\obj\Debug\Triva Game.pdb
